@@ -41,8 +41,7 @@ http://135.181.115.81/russia/cartoon/playlist.m3u8
 #EXTINF:0 tvg-id="cartoon-network" group-title="Детские - Дубликаты",Cartoon Network СНГ (Дубликат 1) [beetv-Kz]
 http://176.222.190.11/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
 
-#EXTINF:0t tvg-id="cartoon-network" group-title="Детские - Дубликаты",Cartoon Network HD СНГ (Дубликат 2) [EdemIPTV-Ru]
-http://data.homeiptv.org:8090/cartoonnetwork/video.m3u8
+#EXTINF:0t tvg-id="cartoon-network" group-title="Детские - Дубликаты",Cartoon Network HD СНГ (Дубликат 2) 
 
 
 
@@ -59,8 +58,9 @@ http://31.148.48.15:80/Animal_Planet_HD/index.m3u8
 #EXTINF:0 tvg-id="animal-planet" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 3) [AzEuroTel-AZ]
 http://213.172.73.170:8081/nimble_live/1089__Animal_Planet/playlist.m3u8
 
-#EXTINF:0 tvg-id="animal-planet" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 4) [EdemIPTV-Ru]
-http://data.homeiptv.org:8090/Animal_Planet/video.m3u8
+#EXTINF:0 tvg-id="animal-planet" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 4) 
+
+
 
 #EXTINF:0 tvg-id="animal-planet" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 5) [VTel-Am]
 http://stream01.vnet.am/AnimalPlanet/mono.m3u8
@@ -70,14 +70,15 @@ http://stream01.vnet.am/AnimalPlanet/mono.m3u8
 http://91.207.115.228:5000/c146
 
 #EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD СНГ
-http://data.homeiptv.org:8090/Discovery_Channel/video.m3u8
+
+
 
 
 #EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные - Дубликаты",Discovery Channel СНГ (Дубликат 1) [beetv-Kz]
 http://176.222.190.11/btv/SWM/discovery_hd/discovery_hd.m3u8
 
-#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные - Дубликаты",Discovery Channel СНГ (Дубликат 2) [EdemIPTV-Ru]
-http://data.homeiptv.org:8090/Discovery_Channel/video.m3u8
+#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные - Дубликаты",Discovery Channel СНГ (Дубликат 2) 
+
 
 #EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные - Дубликаты",Discovery Channel СНГ (Дубликат 3) [VTel-Am]
 http://45.159.74.14/DiscoveryChannel/index.m3u8
@@ -101,8 +102,9 @@ http://135.181.115.81/russia/nat_geo_wild_hd/playlist.m3u8
 #EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic СНГ (Дубликат 1) [beetv-Kz]
 http://176.222.190.11/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
 
-#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic СНГ (Дубликат 2) [EdemIPTV-Ru]
-http://lb.homeiptv.org/lb0/National_Geographic_Channel/video.m3u8
+#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic СНГ (Дубликат 2) 
+
+
 
 #EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic СНГ (Дубликат 3) [VTel-Am]
 http://45.159.74.13:80/NationalGeographic/index.m3u8
@@ -128,7 +130,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 
 #EXTINF:0 tvg-id="tumenskoe-vremia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Региональные - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/tyumen_vremya_logo_v1.png",Тюменское время (архив)
 #EXTVLCOPT:http-user-agent=slluler
-http://rt-ural-tum-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+
+
 
 #EXTINF:0 tvg-id="tumenskoe-vremia" group-title="РФ - Региональные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/tyumen_vremya_logo_v1.png",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/tracks-v1a1/mono.m3u8
