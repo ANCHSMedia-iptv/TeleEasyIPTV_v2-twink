@@ -9,15 +9,15 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/main.png" group-title="Информация",Powered by TeleEasy IPTV X Woobl IPTV
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8 
 
-#EXTINF:0 tvg-id="rossia-pl2" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Russia-1_Region-Tyumen.png" group-title="РФ - Основа",Россия 1 (местный поток)
+#EXTINF:0 tvg-id="rossia1-pl2" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Russia-1_Region-Tyumen.png" group-title="РФ - Основа",Россия 1 (местный поток)
 https://vgtrkregion.cdnvideo.ru/vgtrk/tumen/russia1sd/playlist.m3u8
 
-#EXTINF:0 tvg-id="rossia-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/logos/CHS/Russia-1_Region-Tyumen.png" group-title="РФ - Основа - Архив",Россия 1 (МП,архив)
+#EXTINF:0 tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/logos/CHS/Russia-1_Region-Tyumen.png" group-title="РФ - Основа - Архив",Россия 1 (МП,архив)
 #EXTVLCOPT:http-user-agent=slluler
 
 # Надо ещё и откопать поток XD
 
-#EXTINF:0 tvg-id="rossia-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Основа - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/rossia1-pl2.png" group-title="РФ - Основа",Россия 1 (Noрегионал)
+#EXTINF:0 tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Основа - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/rossia1-pl2.png" group-title="РФ - Основа",Россия 1 (Noрегионал)
 #EXTVLCOPT:http-user-agent=slluler
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
