@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/str
 https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/streams/techstreams_info/info-powered.m3u
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/main.png" group-title="Информация",Powered by TeleEasy IPTV X Woobl IPTV
-https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/streams/techstreams_info/info-tg.m3u
+http://91.233.25.238:7654/udp/239.239.4.74:1234
 
 #EXTINF:0 tvg-id="rossia-pl2" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Russia-1_Region-Tyumen.png" group-title="РФ - Основа",Россия 1 (местный поток)
 https://vgtrkregion.cdnvideo.ru/vgtrk/tumen/russia1sd/playlist.m3u8
