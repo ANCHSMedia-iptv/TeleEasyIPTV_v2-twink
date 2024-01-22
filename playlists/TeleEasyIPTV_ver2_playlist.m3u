@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/streams/techstreams_info/info_updated.m3u
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/tg_logo.png" group-title="Информация",Telegram: @acidraineasy0272mc
-https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/streams/techstreams_info/info-powered.m3u
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/main.png" group-title="Информация",Powered by TeleEasy IPTV X Woobl IPTV
 http://91.233.25.238:7654/udp/239.239.4.74:1234
