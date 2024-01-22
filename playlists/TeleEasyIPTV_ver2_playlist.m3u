@@ -17,7 +17,7 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/tumen/russia1sd/playlist.m3u8
 
 # Надо ещё и откопать поток XD
 
-#EXTINF:0 tvg-id="rossia-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Основа - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/logos/CHS/rossia1_pl2.png" group-title="РФ - О",Россия 1 (Noрегионал)
+#EXTINF:0 tvg-id="rossia-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Основа - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/rossia1-pl2.png" group-title="РФ - О",Россия 1 (Noрегионал)
 #EXTVLCOPT:http-user-agent=slluler
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
