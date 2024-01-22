@@ -119,8 +119,7 @@ http://176.222.190.11/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
 #EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild СНГ (Дубликат 3) [VTel-Am]
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild HD СНГ (Дубликат 4) [ClipTV-Az]
-http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild HD СНГ (Дубликат 4)
 
 
 
