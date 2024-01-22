@@ -28,8 +28,8 @@ http://31.148.48.15:80/Nickelodeon/index.m3u8
 #EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 1) [beetv-Kz]
 http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
 
-#EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 2) [EdemIPTV-Ru]
-http://data.homeiptv.org:8090/Nickelodeon/video.m3u8
+#EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 2) 
+
 
 #EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 3) [LiveTV-Az]
 http://135.181.115.81/russia/nickelodeon/playlist.m3u8
@@ -110,8 +110,8 @@ http://176.222.190.11/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
 http://45.159.74.13:80/NationalGeographic/index.m3u8
 
 
-#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild HD СНГ (Дубликат 1) [EdemIPTV-Ru]
-http://lb.homeiptv.org/lb0/Nat_Geo_Wild_HD/video.m3u8
+#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild HD СНГ (Дубликат 1) 
+
  
 #EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild СНГ (Дубликат 2) [beetv-Kz]
 http://176.222.190.11/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
