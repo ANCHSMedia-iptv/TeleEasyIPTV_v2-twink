@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/updated.png" group-title="Информация",=== Обновлено 20.01.2024 ===
-https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/streams/techstreams_info/info_updated.m3u
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/tg_logo.png" group-title="Информация",Telegram: @acidraineasy0272mc
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
