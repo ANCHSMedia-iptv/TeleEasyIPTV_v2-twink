@@ -35,7 +35,7 @@ http://data.homeiptv.org:8090/Nickelodeon/video.m3u8
 http://135.181.115.81/russia/nickelodeon/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="cartoon-network" group-title="Детские",Cartoon Network СНГ
+#EXTINF:0 tvg-id="cartoon-network" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/blob/main/logos/CHS/CN_HD_logo.png",Cartoon Network СНГ
 http://135.181.115.81/russia/cartoon/playlist.m3u8
 
 #EXTINF:0 tvg-id="cartoon-network" group-title="Детские - Дубликаты",Cartoon Network СНГ (Дубликат 1) [beetv-Kz]
