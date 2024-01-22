@@ -17,9 +17,27 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/tumen/russia1sd/playlist.m3u8
 
 # Надо ещё и откопать поток XD
 
-#EXTINF:0 tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Основа - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/rossia1-pl2.png" group-title="РФ - Основа",Россия 1 (Noрегионал)
+#EXTINF:0 tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Основа - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/rossia1-pl2.png" group-title="РФ - Основа - Архив",Россия 1 (Noрегионал,архив)
 #EXTVLCOPT:http-user-agent=slluler
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+
+#EXTINF:0 tvg-id="sts-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Основа - Архив",СТС (Noрегионал,архив)
+#EXTVLCOPT:http-user-agent=slluler
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+
+#EXTINF:0 tvg-id="tumenskoe-vremia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Региональные - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/tyumen_vremya_logo_v1.png",Тюменское время (архив)
+#EXTVLCOPT:http-user-agent=slluler
+
+
+
+
+#EXTINF:0 tvg-id="tumenskoe-vremia" group-title="РФ - Региональные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/tyumen_vremya_logo_v1.png",Тюменское время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="anekdottv" group-title="РФ - Развлекательные",Анекдот ТВ
+
+
+
 
 
 #EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ
@@ -123,21 +141,7 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0 tvg-id="sts-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Основа - Архив",СТС (Noрегионал)
-#EXTVLCOPT:http-user-agent=slluler
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-
-#EXTINF:0 tvg-id="tumenskoe-vremia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Региональные - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/tyumen_vremya_logo_v1.png",Тюменское время (архив)
-#EXTVLCOPT:http-user-agent=slluler
-
-
-
-#EXTINF:0 tvg-id="tumenskoe-vremia" group-title="РФ - Региональные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/tyumen_vremya_logo_v1.png",Тюменское время
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="anekdottv" group-title="РФ - Развлекательные",Анекдот ТВ
-
-
+
 
 
 
