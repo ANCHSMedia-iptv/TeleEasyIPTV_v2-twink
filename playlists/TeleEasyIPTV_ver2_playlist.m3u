@@ -41,10 +41,10 @@ https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/tracks-v1a
 
 
 
-#EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ
+#EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global HD СНГ
 http://31.148.48.15:80/Nickelodeon/index.m3u8
 
-#EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 1) [beetv-Kz]
+#EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global HD СНГ (Дубликат 1) [beetv-Kz]
 http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
 
 #EXTINF:0 tvg-id="nickelodeon-ru" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 2) 
@@ -54,52 +54,52 @@ http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
 http://135.181.115.81/russia/nickelodeon/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="cartoon-network" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/CN_HD_logo.png",Cartoon Network СНГ
-http://135.181.115.81/russia/cartoon/playlist.m3u8
-
-#EXTINF:0 tvg-id="cartoon-network" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/CN_HD_logo.png",Cartoon Network СНГ (Дубликат 1) [beetv-Kz]
+#EXTINF:0 tvg-id="cartoon-network" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/CN_HD_logo.png",Cartoon Network HD СНГ
 http://176.222.190.11/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
+
+#EXTINF:0 tvg-id="cartoon-network" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/CN_HD_logo.png",Cartoon Network HD СНГ (Дубликат 1)
+
 
 #EXTINF:0 tvg-id="cartoon-network" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/CN_HD_logo.png",Cartoon Network HD СНГ (Дубликат 2) 
 
 
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet FHD СНГ
 http://135.181.115.81/russia/animal_planet/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 1) [ClipTV-Az]
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet СНГ (Дубликат 1) [ClipTV-Az]
 http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 2) [ТелепортIPTV-Ru]
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet FHD СНГ (Дубликат 2) [ТелепортIPTV-Ru]
 http://31.148.48.15:80/Animal_Planet_HD/index.m3u8
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 3) [AzEuroTel-AZ]
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet FHD СНГ (Дубликат 3) [AzEuroTel-AZ]
 http://213.172.73.170:8081/nimble_live/1089__Animal_Planet/playlist.m3u8
 
 #EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 4) 
 
 
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 5) [VTel-Am]
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet FHD СНГ (Дубликат 5) [VTel-Am]
 http://stream01.vnet.am/AnimalPlanet/mono.m3u8
 
 
-#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel СНГ
+#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel FHD СНГ
 http://91.207.115.228:5000/c146
 
-#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD СНГ
+#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel FHD СНГ
 
 
 
 
-#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные - Дубликаты",Discovery Channel СНГ (Дубликат 1) [beetv-Kz]
+#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные - Дубликаты",Discovery Channel HD СНГ (Дубликат 1) [beetv-Kz]
 http://176.222.190.11/btv/SWM/discovery_hd/discovery_hd.m3u8
 
 #EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные - Дубликаты",Discovery Channel СНГ (Дубликат 2) 
 
 
-#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные - Дубликаты",Discovery Channel СНГ (Дубликат 3) [VTel-Am]
+#EXTINF:0 tvg-id="discovery-channel" group-title="Познавательные - Дубликаты",Discovery Channel FHD СНГ (Дубликат 3) [VTel-Am]
 http://45.159.74.14/DiscoveryChannel/index.m3u8
 
 
@@ -111,31 +111,31 @@ http://45.159.74.14/DiscoveryChannel/index.m3u8
 #EXTINF:0 tvg-id="national-geographic" group-title="Познавательные",National Geographic СНГ
 http://135.181.115.81/russia/nat_geo/chunks.m3u8
 
-#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные",National Geographic Wild СНГ
+#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные",National Geographic Wild СНГ (HD)
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные",National Geographic Wild HD СНГ
 http://135.181.115.81/russia/nat_geo_wild_hd/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic СНГ (Дубликат 1) [beetv-Kz]
+#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic FHD СНГ (Дубликат 1) [beetv-Kz]
 http://176.222.190.11/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
 
 #EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic СНГ (Дубликат 2) 
 
 
 
-#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic СНГ (Дубликат 3) [VTel-Am]
+#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic HD СНГ (Дубликат 3) [VTel-Am]
 http://45.159.74.13:80/NationalGeographic/index.m3u8
 
 
 #EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild HD СНГ (Дубликат 1) 
 
  
-#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild СНГ (Дубликат 2) [beetv-Kz]
+#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild HD СНГ (Дубликат 2) [beetv-Kz]
 http://176.222.190.11/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
 
-#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild СНГ (Дубликат 3) [VTel-Am]
+#EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild HD СНГ (Дубликат 3) [VTel-Am]
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные - Дубликаты",National Geographic Wild HD СНГ (Дубликат 4)
