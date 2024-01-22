@@ -41,7 +41,7 @@ http://135.181.115.81/russia/cartoon/playlist.m3u8
 #EXTINF:0 tvg-id="cartoon-network" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/CN_HD_logo.png",Cartoon Network СНГ (Дубликат 1) [beetv-Kz]
 http://176.222.190.11/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
 
-#EXTINF:0t tvg-id="cartoon-network" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/CN_HD_logo.png",Cartoon Network HD СНГ (Дубликат 2) 
+#EXTINF:0 tvg-id="cartoon-network" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/CN_HD_logo.png",Cartoon Network HD СНГ (Дубликат 2) 
 
 
 
