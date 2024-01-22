@@ -25,7 +25,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:0 tvg-id="nickelodeon-hd" group-title="Детские" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ
 http://31.148.48.15:80/Nickelodeon/index.m3u8
 
-#EXTINF:0 tvg-id="nickelodeon-hd" group-title="Детские- Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 1) [beetv-Kz]
+#EXTINF:0 tvg-id="nickelodeon-hd" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 1) [beetv-Kz]
 http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
 
 #EXTINF:0 tvg-id="nickelodeon-hd" group-title="Детские - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 2) [EdemIPTV-Ru]
