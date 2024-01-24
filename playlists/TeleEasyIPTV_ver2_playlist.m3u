@@ -6,7 +6,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/tg_logo.png" group-title="Информация",Telegram: @acidraineasy0272mc
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/main.png" group-title="Информация",Powered by TeleEasy IPTV X Woobl IPTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/main.png" group-title="Информация",Powered by TeleEasy IPTV
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8 
 
 #EXTINF:0 tvg-id="rossia1-pl2" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Russia-1_Region-Tyumen.png" group-title="РФ - Основа",Россия 1 (местный поток)
