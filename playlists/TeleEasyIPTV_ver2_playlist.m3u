@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/updated.png" group-title="Информация",=== Обновлено 22.01.2024 ===
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/updated.png" group-title="Информация",=== Обновлено 24.01.2024 ===
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/tg_logo.png" group-title="Информация",Telegram: @acidraineasy0272mc
@@ -77,7 +77,7 @@ http://31.148.48.15:80/Animal_Planet_HD/index.m3u8
 #EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_Logo.png",Animal Planet FHD СНГ (Дубликат 3) [AzEuroTel-AZ]
 http://213.172.73.170:8081/nimble_live/1089__Animal_Planet/playlist.m3u8
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_alogo.png",Animal Planet HD СНГ (Дубликат 4) 
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_Logo.png",Animal Planet HD СНГ (Дубликат 4) 
 
 
 
