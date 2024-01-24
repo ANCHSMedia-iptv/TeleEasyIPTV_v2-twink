@@ -64,24 +64,24 @@ http://176.222.190.11/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
 
 
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet FHD СНГ
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_Logo.png",Animal Planet FHD СНГ
 http://135.181.115.81/russia/animal_planet/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet СНГ (Дубликат 1) [ClipTV-Az]
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_Logo.png",Animal Planet СНГ (Дубликат 1) [ClipTV-Az]
 http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet FHD СНГ (Дубликат 2) [ТелепортIPTV-Ru]
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_Logo.png",Animal Planet FHD СНГ (Дубликат 2) [ТелепортIPTV-Ru]
 http://31.148.48.15:80/Animal_Planet_HD/index.m3u8
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet FHD СНГ (Дубликат 3) [AzEuroTel-AZ]
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_Logo.png",Animal Planet FHD СНГ (Дубликат 3) [AzEuroTel-AZ]
 http://213.172.73.170:8081/nimble_live/1089__Animal_Planet/playlist.m3u8
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet HD СНГ (Дубликат 4) 
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_alogo.png",Animal Planet HD СНГ (Дубликат 4) 
 
 
 
-#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_logo.png",Animal Planet FHD СНГ (Дубликат 5) [VTel-Am]
+#EXTINF:0 tvg-id="animal-planet-eu" group-title="Познавательные - Дубликаты" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Animal_Planet_HD_Logo.png",Animal Planet FHD СНГ (Дубликат 5) [VTel-Am]
 http://stream01.vnet.am/AnimalPlanet/mono.m3u8
 
 
