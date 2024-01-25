@@ -108,8 +108,8 @@ http://45.159.74.14/DiscoveryChannel/index.m3u8
 
 
 
-#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные",National Geographic СНГ
-http://135.181.115.81/russia/nat_geo/chunks.m3u8
+#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные",National Geographic FHD СНГ
+http://176.222.190.11/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
 
 #EXTINF:0 tvg-id="nat-geo-wild" group-title="Познавательные",National Geographic Wild СНГ (HD)
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
@@ -118,8 +118,8 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 http://135.181.115.81/russia/nat_geo_wild_hd/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic FHD СНГ (Дубликат 1) [beetv-Kz]
-http://176.222.190.11/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+#EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic СНГ (Дубликат 1)
+
 
 #EXTINF:0 tvg-id="national-geographic" group-title="Познавательные - Дубликаты",National Geographic СНГ (Дубликат 2) 
 
@@ -142,7 +142,8 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 
 
-
+
+
 
 
 
