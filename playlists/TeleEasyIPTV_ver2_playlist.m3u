@@ -28,9 +28,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 
 #EXTINF:0 tvg-id="tumenskoe-vremia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РФ - Региональные - Архив" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/tyumen_vremya_logo_v1.png",Тюменское время (архив)
 #EXTVLCOPT:http-user-agent=slluler
-
-
-
+http://rt-ural-tum-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+
 
 #EXTINF:0 tvg-id="tumenskoe-vremia" group-title="РФ - Региональные" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/tyumen_vremya_logo_v1.png",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/tracks-v1a1/mono.m3u8
