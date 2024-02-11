@@ -5,4 +5,4 @@
 
 © 2023 - 2024
 
-© 2023 - 2024 @acidraineasy0272mc (еп)
+© 2023 - 2024 @acidraineasy0272mc (tg)
