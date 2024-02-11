@@ -1,0 +1,83 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG" 
+#PLAYLIST:TeleEasyIPTV_v1_SE
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/updated.png" group-title="Информация",=== Обновлено 11.02.2024 ===
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/tg_logo.png" group-title="Информация",Telegram: @acidraineasy0272mc
+http://91.233.25.238:7654/udp/239.239.4.75:1234
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/main.png" group-title="Информация",Powered by TeleEasy IPTV 
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/no.png" group-title="Информация",Продажа и кража плейлиста запрещена!
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/v2/warn.png" group-title="Информация",Частный плейлист!
+http://146.59.85.40:89/prime/index.m3u8
+
+#EXTINF:0 tvg-logo="https://freepngimg.com/thumb/religion/68805-depiction-of-resurrection-christ-jesus-hq-image-free-png.png" group-title="Информация",Бог всё видит!
+http://tv.streams.baikal-telecom.net/WEACOM.TV/index.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="rossia1-pl1" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/v1_sp/Russia-1_Udmurtiya.png" group-title="Россия",Россия 1 Ижевск
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8
+
+
+#EXTINF:0 tvg-id="rossia-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink",Россия 1 (Noрегионал,архив)
+#EXTVLCOPT:http-user-agent=slluler
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_1/variant.m3u8
+
+
+#EXTINF:0 tvg-id="2na2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink",2x2 (Noрегионал,архив) #ГПМНЕБАНЬ!
+#EXTVLCOPT:http-user-agent=slluler
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:0 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! ТВ (Noрегионал,архив) #ГПМНЕБАНЬ!
+#EXTVLCOPT:http-user-agent=slluler
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+#EXTINF:0 tvg-id="piatnica" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (Noрегионал,архив) #ГПМНЕБАНЬ! 
+#EXTVLCOPT:http-user-agent=slluler
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+
+#EXTINF:0 tvg-id="sts" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (Noрегионал,архив)
+#EXTVLCOPT:http-user-agent=slluler
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+
+#EXTINF:0 tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (Noрегионал,архив)
+#EXTVLCOPT:http-user-agent=slluler
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+#EXTINF:0 tvg-id="rbk" group-title="Россия",РБК HD
+http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+
+#EXTINF:0 tvg-id="pervy-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал SD
+#EXTVLCOPT:http-user-agent=slluler
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
+#EXTINF:0 tvg-id="tnt" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (Noрегионал,архив) #ГПМНЕБАНЬ! 
+#EXTVLCOPT:http-user-agent=slluler
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
+
+
+#EXTINF:0 tvg-id="nickelodeon-ru" group-title="Ушли из РФ - СНГ" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global HD СНГ
+http://31.148.48.15:80/Nickelodeon/index.m3u8
+
+
+#EXTINF:0 tvg-id="nickelodeon-ru" group-title="Ушли из РФ - СНГ" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global HD СНГ (Дубликат 1) [beetv-Kz]
+https://bkm.beetv.kz/btv/live/hls/000000499.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="nickelodeon-ru" group-title="Ушли из РФ - СНГ" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/TeleEasyIPTV_v2-twink/main/logos/CHS/Nick_logo.png",Nickelodeon Global СНГ (Дубликат 3) [LiveTV-Az]
+http://135.181.115.81/russia/nickelodeon/playlist.m3u8
+
+
+
+
