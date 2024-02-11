@@ -36,30 +36,30 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_1/variant.m3u8
 #EXTVLCOPT:http-user-agent=slluler
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
-#EXTINF:0 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! ТВ (Noрегионал,архив) #ГПМНЕБАНЬ!
+#EXTINF:0 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink",Матч! ТВ (Noрегионал,архив) #ГПМНЕБАНЬ!
 #EXTVLCOPT:http-user-agent=slluler
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
-#EXTINF:0 tvg-id="piatnica" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! (Noрегионал,архив) #ГПМНЕБАНЬ! 
+#EXTINF:0 tvg-id="piatnica" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink",Пятница! (Noрегионал,архив) #ГПМНЕБАНЬ! 
 #EXTVLCOPT:http-user-agent=slluler
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
-#EXTINF:0 tvg-id="sts" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (Noрегионал,архив)
+#EXTINF:0 tvg-id="sts" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink",СТС (Noрегионал,архив)
 #EXTVLCOPT:http-user-agent=slluler
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-#EXTINF:0 tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний (Noрегионал,архив)
+#EXTINF:0 tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink",Домашний (Noрегионал,архив)
 #EXTVLCOPT:http-user-agent=slluler
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
 #EXTINF:0 tvg-id="rbk" group-title="Россия",РБК HD
 http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 
-#EXTINF:0 tvg-id="pervy-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал SD
+#EXTINF:0 tvg-id="pervy-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink",Первый канал SD
 #EXTVLCOPT:http-user-agent=slluler
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
-#EXTINF:0 tvg-id="tnt" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (Noрегионал,архив) #ГПМНЕБАНЬ! 
+#EXTINF:0 tvg-id="tnt" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink",ТНТ (Noрегионал,архив) #ГПМНЕБАНЬ! 
 #EXTVLCOPT:http-user-agent=slluler
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 
