@@ -4,7 +4,7 @@
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.digiseller.ru/preview/903804/p1_3364980_96b3ea64.png",Viasat (viju) playlist
-http://tv.streams.baikal-telecom.net/WEACOM.TV/index.m3u8
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 
 
