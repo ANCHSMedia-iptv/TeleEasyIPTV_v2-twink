@@ -1,0 +1,41 @@
+#EXTM3U tvg-url="https://iptvx.one/EPG"
+
+#EXTINF:0,Updated 19.02.24
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.digiseller.ru/preview/903804/p1_3364980_96b3ea64.png",Viasat (viju) playlist
+http://tv.streams.baikal-telecom.net/WEACOM.TV/index.m3u8
+
+
+
+#EXTINF:0 tvg-id="viju-tv1000-novella" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/457b6a47-cd61-4728-bd84-a33a59cb8bb6/logos/mr286vmljgfjjawprua1d5q0pfeb" group-title="Кино",viju TV1000 Новелла
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=yKWoP9ew9CTvDDuJRqaQLw&e=1709399031&hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
+
+#EXTINF:0 tvg-id="tv1000" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/f0d703d6-72c9-4587-9ead-642f899f2e32/logos/dvkqk5v0mlih8c57mdcx0hasvm92" group-title="Кино",viju TV1000
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=XR72PAuM0-ylrl2LAOo6lg&e=1709399214&hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
+
+#EXTINF:0 tvg-id="tv1000-action" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/0d59e633-5cae-48c5-b5cd-a6bb92cd68d8/logos/ieqtu3248ovr7ljvl1h29lnqx46u?w=600" group-title="Кино",viju TV1000 Action
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=mVPMF-xN3IOLUqJF_6cA4Q&e=1709399314&hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
+
+#EXTINF:0 tvg-id="viasat-explore" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/d8cb27ab-dbe8-4b26-b4e7-2b732bc32d2b/logos/ipyeedpiek1loe7wqigoees1ke3p?w=600" group-title="Познавательные",viju Explore
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=cQ9MbTHYWY597epiauH3ww&e=1709399369&hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
+
+#EXTINF:0 tvg-id="viasat-history" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/212702d6-ccb5-43a9-807b-a36b5d022987/logos/l6vzeowpsczibhfg41jj5krpx4jw?w=600" group-title="Познавательные",viju History
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=JXuazHF_E3d4Eg0Pk7pJug&e=1709399374&hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
+
+#EXTINF:0 tvg-id="da-vinci" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/d1826d05-efbb-4156-80cf-fc89a3d30931/logos/q3cqlw7r4cvjgze4orjc95e7u5b9?w=600" group-title="Познавательные",Da Vinci
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v3a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=kN57kQimsX9oARdQ6Zn6WA&e=1709399384&hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
+
+#EXTINF:0 tvg-id="viasat-nature" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/faa8d296-cb0f-4668-bb83-d1d2d0ed77cc/logos/fh5lal5001mftjmj1xbt02m8ki8a?w=600" group-title="Познавательные",viju Nature
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=FjIAXIb_TmVOcN81A4iQeQ&e=1709399510&hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
+
+
+
+
